@@ -56,6 +56,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
+- [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 
